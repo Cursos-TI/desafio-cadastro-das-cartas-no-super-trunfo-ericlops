@@ -64,24 +64,24 @@ int main() {
     // Exibição dos dados
     printf("\n----------------------------------------------------");
     printf("\nCarta 1:\n");
-    printf("Estado: %c\n", estado_1);
-    printf("Codigo: %s\n", codigo_1);
-    printf("Nome da Cidade: %s\n", nomeCidade_1);
-    printf("Populacao: %d\n", populacao_1);
-    printf("Area: %.2f km²\n", area_1);
-    printf("PIB: %.2f bilhoes de reais\n", pib_1);
-    printf("Numero de Pontos Turisticos: %d\n", pontosTuristicos_1);
+    printf("- Estado: %c\n", estado_1);
+    printf("- Codigo: %s\n", codigo_1);
+    printf("- Nome da Cidade: %s\n", nomeCidade_1);
+    printf("- Populacao: %d\n", populacao_1);
+    printf("- Area: %.2f km²\n", area_1);
+    printf("- PIB: %.2f bilhoes de reais\n", pib_1);
+    printf("- Numero de Pontos Turisticos: %d\n", pontosTuristicos_1);
     printf("----------------------------------------------------\n");
 
     printf("\n----------------------------------------------------");
     printf("\nCarta 2:\n");
-    printf("Estado: %c\n", estado_2);
-    printf("Codigo: %s\n", codigo_2);
-    printf("Nome da Cidade: %s\n", nomeCidade_2);
-    printf("Populacao: %d\n", populacao_2);
-    printf("Area: %.2f km²\n", area_2);
-    printf("PIB: %.2f bilhoes de reais\n", pib_2);
-    printf("Numero de Pontos Turisticos: %d\n", pontosTuristicos_2);
+    printf("- Estado: %c\n", estado_2);
+    printf("- Codigo: %s\n", codigo_2);
+    printf("- Nome da Cidade: %s\n", nomeCidade_2);
+    printf("- Populacao: %d\n", populacao_2);
+    printf("- Area: %.2f km²\n", area_2);
+    printf("- PIB: %.2f bilhoes de reais\n", pib_2);
+    printf("- Numero de Pontos Turisticos: %d\n", pontosTuristicos_2);
     printf("----------------------------------------------------\n");
 
     return 0;
